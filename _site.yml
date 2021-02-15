@@ -1,0 +1,11 @@
+name: "."
+title: "ChrisUmphlett.com"
+description: |
+  ChrisUmphlett.com
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+output: distill::distill_article
+theme: postcards.css
