@@ -1,6 +1,6 @@
 ---
 title: "Chris Umphlett"
-image: "circle-cropped.png"
+image: "2022-nov profile pic.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/chris-umphlett/"
@@ -15,7 +15,16 @@ output:
 site: distill::distill_website
 ---
 
-*A part of good science is to see what everyone else can see but to think what no one else has ever said* ~ Amos Tversky
+## Bio
+Chris is the Manager of Data Analysis and Data Privacy at TechSmith, the makers of great software like Snagit and Camtasia. At TechSmith he works with stakeholders across the company on analytics and data science projects like building summary reports in Power BI, creating ETL processes to collect data via a vendor API, developing an R Shiny app that forecasts license activations, and survey analysis.
+
+Chris is the author of several R packages hosted on CRAN:
+
+marketr
+ibmAcousticR
+revulyticsR
+zdeskR
+Chris lives in East Lansing, MI with his wife and four young children.
 
 ## Education
 
